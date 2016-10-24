@@ -1,3 +1,4 @@
+![](https://scontent.fcgh14-1.fna.fbcdn.net/v/t1.0-9/13501921_1728964067345740_4880603919678781288_n.png?oh=7eb837e6d6bfba776b994f52c1e752a2&oe=58A73D8A)
 # Comunidade Desprograme-BR
 # Missão da Comunidade 
 - Queremos democratizar a programação,
