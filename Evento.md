@@ -35,7 +35,7 @@ Deve ser enviado formulário para todos participates para analisar o evento e me
 
 ##Pausa no evento
 
-- Deve ter pausa com duração de 1 hora
+- Deve ter pausa almoço com duração de 1 hora
 - A cada 3 horas de atividade continua deve ter uma pausa. 
 
 ##Material da Atividade 
