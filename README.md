@@ -6,6 +6,6 @@
 
 #Atividade do Desprograme
 - Workshop (Como montar Workshop)
-- Eventos (Como montar Workshop)
-- Cursos (Como montar Workshop)
+- Eventos (Como montar Eventos)
+- Cursos (Como montar Cursos)
 
