@@ -5,8 +5,8 @@
 -> Aumentar a diversidade no universo da tecnologia.
 
 #Atividade do Desprograme
--> Workshop
-->Eventos 
-->Cursos 
+-> Workshop<br>
+->Eventos <br>
+->Cursos <br>
 
 #Codigo de coduta do Desprograme 
