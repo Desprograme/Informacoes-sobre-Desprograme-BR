@@ -1,2 +1,8 @@
-# informa-es-sobre-Desprograme--BR
-Queremos democratizar a programação, empoderar mais mulheres através da tecnologia e aumentar a diversidade no universo da tecnologia.
+# Comunidade Desprograme-BR
+<hr>
+# Missão da Comunidade 
+<hr>
+-> Queremos democratizar a programação,
+-> Empoderar mais mulheres através da tecnologia 
+-> Aumentar a diversidade no universo da tecnologia.
+
