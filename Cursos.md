@@ -7,6 +7,11 @@
 São pessoas que não tem conhecimento, com muita dedicação, com vontade de evoluir na carreira
 ou mudar de area. 
 
+##Custo
+Os Curso pode ser cobrado para curstiar eventual custo, como paga locação e pagar professores.
+Outra alternativa conseguir patrocionio para propocianar o curso gratuitamente ou abarter o valor
+do Curso. 
+
 ##Formato do Curso
 
 - Aulas praticas
@@ -23,8 +28,8 @@ ou mudar de area.
 - JavaScript
 - JQuery
 
-##rogramação iniciante 
+##Programação iniciante 
 
--Logica de Programação 
--JavaScript 
+- Logica de Programação 
+- JavaScript 
 - Animações com JavaScript
