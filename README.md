@@ -1,12 +1,12 @@
 # Comunidade Desprograme-BR
 # Missão da Comunidade 
--> Queremos democratizar a programação,<br>
--> Empoderar mais mulheres através da tecnologia,<br>
--> Aumentar a diversidade no universo da tecnologia.
+- Queremos democratizar a programação,
+- Empoderar mais mulheres através da tecnologia,
+- Aumentar a diversidade no universo da tecnologia.
 
 #Atividade do Desprograme
--> Workshop<br>
-->Eventos <br>
-->Cursos <br>
+- Workshop
+- Eventos 
+- Cursos 
 
 #Codigo de coduta do Desprograme 
