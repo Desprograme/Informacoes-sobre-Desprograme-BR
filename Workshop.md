@@ -23,7 +23,7 @@ Ambiente deve conter:
 - Mesas;
 - Wifi;
 - Projetor.
-- Espaço para Coffe Break
+- Espaço para Coffe Break<br>
 Obs: Oficina não pode passar de 30 pessoas. 
 
 ##Divulgação
