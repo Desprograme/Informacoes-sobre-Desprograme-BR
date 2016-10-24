@@ -22,7 +22,7 @@ Deve ter no máximo 3 atividade simutanae,homem podem participar.
 Atividade será abordado alguma linguagem ou framework, objetivo será uma atividade introdutora, evitar atividade de nível
 avançado, pois foco da comunidade é introduzir pessoas sem conhecimento, ao mundo de tecnologia. 
 
--Monitores
+- Monitores
 
 Todas Atividade terá um monitor, que estara responsável por sinalizar qualquer eventualidade na atividade.
 
@@ -39,5 +39,5 @@ Deve ser enviado formulário para todos participates para analisar o evento e me
 - A cada 3 horas de atividade continua deve ter uma pausa. 
 
 ##Material da Atividade 
--Todo código fonte usado na aula deve está postado no Github,
--Deve ser disponibizado o link dos slides para o participantes.
+- Todo código fonte usado na aula deve está postado no Github,
+- Deve ser disponibizado o link dos slides para o participantes.
