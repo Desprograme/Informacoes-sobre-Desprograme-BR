@@ -6,6 +6,5 @@
 
 #Atividade do Desprograme
 - [Workshop](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Workshop.md) 
-- Eventos (Como montar Eventos)
-- Cursos (Como montar Cursos)
-
+- [Eventos](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Evento.md) 
+- [Cursos](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Workshop.md) 
