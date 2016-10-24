@@ -7,4 +7,4 @@
 #Atividade do Desprograme
 - [Workshop-meetup](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Workshop.md) 
 - [Eventos](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Evento.md) 
-- [Cursos](https://github.com/Desprograme/informa-es-sobre-Desprograme--BR/blob/master/Workshop.md) 
+- [Cursos](https://github.com/Desprograme/Informacoes-sobre-Desprograme-BR/blob/master/Cursos.md) 
