@@ -5,8 +5,7 @@
 - Aumentar a diversidade no universo da tecnologia.
 
 #Atividade do Desprograme
-- Workshop
-- Eventos 
-- Cursos 
+- Workshop (Como montar Workshop)
+- Eventos (Como montar Workshop)
+- Cursos (Como montar Workshop)
 
-#Codigo de coduta do Desprograme 
