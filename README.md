@@ -1,4 +1,4 @@
-![](http://desprograme.com.br/wp-content/uploads/2016/10/logo-desprograme-vermelho.png)
+![](http://desprograme.com.br/wp-content/uploads/2016/10/logo-desprograme-vermelho.png)<br><br>
 # Comunidade Desprograme-BR
 # Missão da Comunidade 
 - Queremos democratizar a programação,
